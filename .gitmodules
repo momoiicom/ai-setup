@@ -1,0 +1,6 @@
+[submodule "skills/gstack"]
+	path = skills/gstack
+	url = https://github.com/garrytan/gstack.git
+[submodule "skills/mattpocock"]
+	path = skills/mattpocock
+	url = git@github.com:mattpocock/skills.git
